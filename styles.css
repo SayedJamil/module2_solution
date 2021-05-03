@@ -37,7 +37,7 @@ h1 {
   padding: 2px;
   float: right;
   margin-right: 50px;
-  margin-top: 0px;
+  margin-top: 1px;
   font-weight: bold;
   position: relative;
 }
@@ -64,10 +64,10 @@ h1 {
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: #b30000;
 }
 .name3{
-  background-color: #FFFF00;
+  background-color: #ffd633;
 }
 
 
