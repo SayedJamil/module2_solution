@@ -36,8 +36,8 @@ h1 {
   height: 50px;
   padding: 2px;
   float: right;
-  margin-right: 50px;
-  margin-top: 1px;
+  margin-right:50px;
+  margin-top: 0px;
   font-weight: bold;
   position: relative;
 }
